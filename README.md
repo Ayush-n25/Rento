@@ -9,7 +9,7 @@ Discover the ease of finding your ideal home or land and managing your rental pr
 
 # Project Name
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Rento
 
 ## Description of techstack
 
