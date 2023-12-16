@@ -30,7 +30,7 @@ I made use of express js, node js and mongodb for database.All the contents are 
 1. Clone the repository:
 
     ```bash
-    git clone [https://github.com/your-username/your-repository.git](https://github.com/Ayush-n25/Rento.git)
+    git clone [https://github.com/Ayush-n25/Rento.git]
     ```
 
 2. Install dependencies:
