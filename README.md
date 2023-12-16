@@ -49,4 +49,4 @@ Make sure you have mongodb and node js along with all required dependencies.
 npm start
 ```
 ## Screenshot
-[!Home Page](https://github.com/Ayush-n25/Rento/blob/e28532ac1c87b7b0eb22de8b988fd4de03214f01/Screenshot/Home_Page.jpg)
+[!Home Page](https://github.com/Ayush-n25/Rento/blob/883e82f8e5f718cf727cb6c1dc1280b4404f60d5/Screenshot/Home_Page.png)
